@@ -1,0 +1,42 @@
+#leftPanelContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: lightgray;
+    width: 20vw;
+    min-width: 300px;
+    gap: 10px;
+    padding: 2%;
+    color: black;
+}
+#profilePicContainer {
+    display: relative;
+    border-radius: 50%;
+    overflow: hidden;
+    height: 275px;
+    width: 275px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+#profilePic {
+    height: 100%;
+}
+#nameContainer {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.name {
+    font-size: 28px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+#jobName {
+    font-size: 22px;
+}
+#city {
+    font-size: 18px;
+}
+#email {
+    font-size: 18px;
+}

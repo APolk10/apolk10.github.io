@@ -1,0 +1,102 @@
+{
+    "profile": {
+        "firstName": "Adam",
+        "lastName": "Polk",
+        "city": "Houston, TX",
+        "email": "adampolk91@gmail.com",
+        "degree": "Bachelors Degree | University of Houston",
+        "currentPosition": "Software Developer",
+        "furtherEd": "Hack Reactor",
+        "yoe": 2,
+        "yearsCoding": "3.5",
+        "bio": "Professional software engineer with full-stack experience in distributed systems using C#/.NET, PostgreSQL, and Azure. Passionate about building scalable solutions that optimize performance and reduce costs. Eager to deepen expertise in this ecosystem while also bringing hands-on experience with JavaScript, TypeScript, React, Node.js, and Next.js."
+    },
+    "projects": [
+        {
+            "project": "Distributed Cache",
+            "description": "Cosmos container and Semaphore system."
+        },
+        {
+		        "project": "Local Cache",
+		        "description": "Concurrency Dictionary and Semaphore system."
+        },
+        {
+            "project": "AI Redaction System",
+            "description": "Prompt writing and testing on documents with sensitive information."
+        },
+        {
+            "project": "Fileshare Purge System",
+            "description": "Another semaphore system to rate lock large amounts of files that needed to delete on age out."
+        },
+        {
+            "project": "ASP.NET Dynamic UI",
+            "description": "Multiple sites and pages added with dynamic form validation and user friendly UI feedback in an older environment."
+        },
+        {
+            "project": "High level SQL Proficiency",
+            "description": "From junction tables to complicated JSON structures to multistep CTE queries, I have worked with a lot of SQL."
+        }
+    ],
+    "experience": [
+        {
+            "jobName": "Software Developer",
+            "company": "Reynolds and Reynolds",
+            "description": "Fullstack developer position that leans backend. I work mainly on two applications: a distributed customer data platform that links customer data across many applications at Reynolds as well as an AI integration hub that brings AI services to our products.",
+            "startDate": "2023",
+            "endDate": null
+        },
+        {
+            "jobName": "Software Engineering Immersive Resident (SEIR)",
+            "company": "Galvanize - Hack Reactor",
+            "description": "One of only a handful of cohort students hired to become a coding tutor for students who would be entering program. Assisted students with coding challenges, software engineering lessons, as well as helped support other educational staff.",
+            "startDate": "2022",
+            "endDate": "2023"
+        },
+        {
+            "jobName": "Elementary Teacher",
+            "company": "Klein Independent School District",
+            "description": "Public school music teacher that taught 6 grade levels, age specific music lessons daily. Students learned how to read, write, and perform on musical instruments. Also led a student choir of over 100 kids as well as a chime group that performed semi-anually for the school and community.",
+            "startDate": "2015",
+            "endDate": "2022"
+        }
+    ],
+    "techStack": {
+        "Professional": [
+            {
+                "JavaScript": 2
+            },
+            {
+                "C#": 2
+            },
+            {
+                ".NET": 2
+            },
+            {
+                "PostgreSQL": 2
+            },
+            {
+                "Microsoft Azure": 2
+            },
+            {
+		            "Prompt Writing": 1
+            }
+        ],
+        "Personal": [
+            {
+                "JavaScript": 3
+            },
+            {
+                "TypeScript": 2
+            },
+            {
+                "AWS": 1
+            },
+            {
+                "PostgreSQL": 3
+            },
+            {
+		            "Python": 1
+            }
+        ]
+    }
+}
